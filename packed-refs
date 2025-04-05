@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+aa68bc43be337ffa5d799c79116a879c8fb6ff04 refs/remotes/origin/dependabot/npm_and_yarn/cacheable-request-and-firebase-tools--removed
+e3914f501840839c741ee11aee7ed22a058dfa71 refs/remotes/origin/dependabot/npm_and_yarn/decode-uri-component-0.2.2
+577a8b43e355da6a12f515919642a7a0ea223ee3 refs/remotes/origin/dependabot/npm_and_yarn/express-4.18.2
+60af4d4d2cf1e671d59c19d51a4e29ff211afb41 refs/remotes/origin/dependabot/npm_and_yarn/http-cache-semantics-4.1.1
+777bb329dd88ea7f343563c790aaa6a1d4fcdf70 refs/remotes/origin/dependabot/npm_and_yarn/json5-1.0.2
+b65c42846afc5b7279283d313d39808eceb68777 refs/remotes/origin/dependabot/npm_and_yarn/loader-utils-2.0.4
+85f579e564569092f6ca27d5439d7f5d4ab4b2af refs/remotes/origin/dependabot/npm_and_yarn/minimist-1.2.8
+360c9ce8a44b74dcd477d87980e7cca714347b5d refs/remotes/origin/dependabot/npm_and_yarn/qs-6.5.3
+e40c673525ac63b9c9de1af4797ede077320db4e refs/remotes/origin/improve-accessibility
+9fa56244d0f0c0d363cab744a3305c50eabc08cb refs/remotes/origin/main
+6022273ada32b3ff0f375991ed48267cfb5f29f6 refs/remotes/origin/refactor-contexts-to-make-it-easier-for-testing
+180ab02f396a47b50ca43846077714bd88e242bb refs/remotes/origin/refactor-products-context-to-be-easier-to-test
+819b6c67f3535d785a8718014359efe2367ede89 refs/remotes/origin/unit-tests
+62747957a08b188a65b1e43fe06a31276e2fea1a refs/remotes/origin/update-to-react-18
